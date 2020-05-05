@@ -1,3 +1,3 @@
 # Vue playground
 
-I'm just trying some things out in Vue. 
+I'm just learning Vue..
